@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: beige;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    margin-right: 100px;
+    display: flex;
+}
+.navlinks{
+    display: flex;
+}
+.nav-items>a{
+    margin-right: 100px;
+    display: inline-block;
+}
+
